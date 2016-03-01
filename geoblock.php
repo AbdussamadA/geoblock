@@ -4,7 +4,7 @@ namespace Abd\WordPress\Plugins;
 Plugin Name: GeoIP content blocker
 Description: Block content based on the user's geographical location. Enter country codes separated by commas like this: [geoblock type='blacklist' countries='pk,in']. Type can be blacklist or whitelist
 Author: Abdussamad
-Version: 0.3
+Version: 0.4
 License: GPLv2
 */
 
