@@ -6,7 +6,7 @@ Description: Block content based on the user's geographical location. Enter coun
 Author: Abdussamad Abdurrazzaq
 Author URI: https://abdussamad.com
 Plugin URI: https://abdussamad.com/archives/1058-Country-specific-content-blocks-for-WordPress.html
-Version: 0.4.1
+Version: 0.4.2
 License: GPLv2
 */
 
