@@ -1,6 +1,10 @@
 # geoblock
 This is a WordPress plugin for creating blocks of content that display or not based on the user's country. After install the plugin you use it like this:
 
+## System Requirements
+
+You need to install and configure mod_geoip or the nginx equivalent so that the environment variable GEOIP_COUNTRY_CODE is set properly.
+
 ## Blacklisting
 
 [geoblock type='blacklist' countries='xx,yy,zz']
